@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <img src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/448775834_805361175070464_8664692330632047296_n.png?stp=dst-png_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=wnrUOFkOmVMQ7kNvgGwhsLI&_nc_ht=scontent.fdac142-1.fna&oh=00_AYDKL3HoC92I445eQdCM6YWwsjwnSijXDqBFF00j5QMxjQ&oe=667A9C27"> 
 
-<h3 align="center">A learning frontend developer from bangladish</h3>
+<h3 align="center">A learning frontend developer from bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjihad84&label=Profile%20views&color=0e75b6&style=flat" alt="mdjihad84" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjihad84" alt="mdjihad84" /></a> </p>
