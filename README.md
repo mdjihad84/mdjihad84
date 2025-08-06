@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **web development, Bangladish**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **javascript**
 
 - 👯 I’m looking to collaborate on **Protfolio**
 
