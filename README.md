@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <h2 align="center">I am fontend developer from bangladesh</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=✨+MD+JIHAD+✨;💖+Jilmil+Jilmil+Forever+💖" alt="Typing SVG" />
+</h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=300&lines=MD+JIHAD;MD+JIHAD;MD+JIHAD" alt="MD JIHAD" />
 </div>
