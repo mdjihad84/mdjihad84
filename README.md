@@ -6,10 +6,6 @@
   </h2>
 </div>
 <!-- Profile README -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=👋+Hi+I'm+MD+JIHAD;💻+Future+Full+Stack+Developer;✨+Always+Jilmil+Jilmil" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak stats"/>
 </p>
