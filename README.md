@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <h2 align="center">I am fontend developer from bangladesh</h2>
+<p align="center">
+  <svg width="100%" height="100">
+    <defs>
+      <linearGradient id="gradient" gradientTransform="rotate(90)">
+        <stop offset="5%"  stop-color="#ff00ff" />
+        <stop offset="95%" stop-color="#00ffff" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="60" fill="url(#gradient)">
+      MD JIHAD
+    </text>
+  </svg>
+</p>
+
 
 <div align="center">
   <h1 style="font-size: 4em; font-weight: 900; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: glow 2s ease-in-out infinite alternate;">
