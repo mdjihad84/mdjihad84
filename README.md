@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <h2 align="center">I am fontend developer from bangladesh</h2>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=✨+MD+JIHAD+✨;💖+Jilmil+Jilmil+Forever+💖" alt="Typing SVG" />
-</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=300&lines=MD+JIHAD;MD+JIHAD;MD+JIHAD" alt="MD JIHAD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=3000&pause=0&color=FF6B6B&center=true&vCenter=true&repeat=false&width=400&lines=💎+**MD+JIHAD**+💎" alt="MD JIHAD" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=300&color=00D9FF&center=true&vCenter=true&width=400&lines=✨+MD+JIHAD+✨;💫+MD+JIHAD+💫;🌟+MD+JIHAD+🌟;⭐+MD+JIHAD+⭐" alt="Sparkling MD JIHAD" />
+  <h1 style="font-size: 4em; font-weight: 900; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: glow 2s ease-in-out infinite alternate;">
+    ✨ <strong>MD JIHAD</strong> ✨
+  </h1>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=350&lines=🔥+MD+JIHAD+🔥;💎+MD+JIHAD+💎;⚡+MD+JIHAD+⚡;🚀+MD+JIHAD+🚀" alt="Dynamic MD JIHAD" />
+  <h2 style="font-family: 'Orbitron', monospace; font-weight: bold; color: #00D9FF; text-shadow: 0 0 10px #00D9FF, 0 0 20px #00D9FF, 0 0 30px #00D9FF;">
+    🚀 <b>MD JIHAD</b> 🚀
+  </h2>
 </div>
 <!-- Profile README -->
 <h1 align="center">
