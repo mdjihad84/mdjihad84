@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <h2 align="center">I am fontend developer from bangladesh</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=300&lines=MD+JIHAD;MD+JIHAD;MD+JIHAD" alt="MD JIHAD" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=300&color=00D9FF&center=true&vCenter=true&width=400&lines=✨+MD+JIHAD+✨;💫+MD+JIHAD+💫;🌟+MD+JIHAD+🌟;⭐+MD+JIHAD+⭐" alt="Sparkling MD JIHAD" />
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=350&lines=🔥+MD+JIHAD+🔥;💎+MD+JIHAD+💎;⚡+MD+JIHAD+⚡;🚀+MD+JIHAD+🚀" alt="Dynamic MD JIHAD" />
+</div>
 <!-- Profile README -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=👋+Hi+I'm+MD+JIHAD;💻+Future+Full+Stack+Developer;✨+Always+Jilmil+Jilmil" alt="Typing SVG" />
