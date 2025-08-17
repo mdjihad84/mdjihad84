@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'am  MD JAHIDUL ISLAM JIHAD</h1>
 <h2 align="center">I am fontend developer from bangladesh</h2>
+<!-- Profile README -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=👋+Hi+I'm+MD+JIHAD;💻+Future+Full+Stack+Developer;✨+Always+Jilmil+Jilmil" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-MD%20JIHAD-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjihad84&label=Profile%20views&color=0e75b6&style=flat" alt="mdjihad84" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdjihad84" alt="mdjihad84" /></a> </p>
