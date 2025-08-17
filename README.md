@@ -2,9 +2,6 @@
 <h2 align="center">I am fontend developer from bangladesh</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&duration=3000&pause=0&color=FF6B6B&center=true&vCenter=true&repeat=false&width=400&lines=💎+**MD+JIHAD**+💎" alt="MD JIHAD" />
-</div>
-<div align="center">
   <h1 style="font-size: 4em; font-weight: 900; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: glow 2s ease-in-out infinite alternate;">
     ✨ <strong>MD JIHAD</strong> ✨
   </h1>
@@ -18,10 +15,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=👋+Hi+I'm+MD+JIHAD;💻+Future+Full+Stack+Developer;✨+Always+Jilmil+Jilmil" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Name-MD%20JIHAD-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="streak stats"/>
